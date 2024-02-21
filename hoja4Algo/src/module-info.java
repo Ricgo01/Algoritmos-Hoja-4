@@ -4,5 +4,5 @@
 /**
  * 
  */
-module hoja4 {
+module hoja4Algo {
 }
